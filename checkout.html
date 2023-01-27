@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <title>Order</title>
+    <link rel="icon" href="images/title logo.jpg" type="image/icon type">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="body">
+    <!-- header starts here -->
+    <section id="header">
+        <a href="#"><img src="images/logo.png" class="logo" alt=""></a>
+        <div>
+            <ul id="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="login.html">Sign In</a></li>
+                <li id="lg-bag"><a class="active" href="cart.html"><i class="fa-solid fa-bag-shopping"></i></i></a></li>
+                <a href="#" id="close"><i class="fa-regular fa-circle-xmark"></i></a>
+            </ul>
+        </div>
+        <div id="mobile">
+            <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
+    </section>
+
+    <!-- Payment detials starts here -->
+    <header>
+        <div class="cont">
+            <div class="lefting">
+                <h3 class="h3">BILLING ADDRESS</h3>
+                <form class="for">
+                    Full Name:
+                    <input class="text" type="text" placeholder="Enter Your Name">
+                    Email:
+                    <input class="text" type="text" placeholder="Enter Your E-mail">
+                    Adress:
+                    <input class="text" type="text" placeholder="Enter Your Adress">
+                    City:
+                    <input class="text" type="text" placeholder="Enter Your City">
+                    <div id="zip">
+                    <label>
+                        State:
+                        <select>
+                            <option>Choose State</option>
+                            <option>Andhra Pradesh</option>
+                            <option>Telangana</option>
+                            <option>Arunachal Pradesh</option>
+                            <option>Assam</option>
+                            <option>Bihar</option>
+                            <option>Chhattisgarh</option>
+                            <option>Goa</option>
+                            <option>Gujarat</option>
+                        </select>
+                    </label>
+                    <label>
+                        Pin Code:
+                        <input type="number" placeholder="Pin">
+                    </label>
+                    </div>
+                </form>
+            </div>
+            <div class="righting">
+                <h3 class="h3">PAYEMENT</h3>
+                <form class="for">
+                    Accepted Cards:
+                    <img src="./images/card_img.png">
+                    <br><br>
+                    Card Number:
+                    <input class="text" type="text" placeholder="Enter Your Card Number">
+                    Exp Month:
+                    <input class="text" type="text" placeholder="Enter Month">
+                    <div id="zip">
+                    <label>
+                        Exp Year:
+                        <select>
+                            <option>Choose Year</option>
+                            <option>2015</option>
+                            <option>2016</option>
+                            <option>2017</option>
+                            <option>2018</option>
+                            <option>2019</option>
+                            <option>2020</option>
+                            <option>2021</option>
+                            <option>2022</option>
+                            <option>2023</option>
+                        </select>
+                    </label>
+                    <label>
+                        CVV:
+                        <input type="number" placeholder="CVV">
+                    </label>
+                    </div>
+                </form>
+                <input class="input" type="submit" value="Proceed">
+            </div>
+        </div>
+    </header>
+
+    <script src="java script/script.js"></script>
+</body>
+
+</html>

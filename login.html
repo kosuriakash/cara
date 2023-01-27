@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <title>login</title>
+    <link rel="icon" href="images/title logo.jpg" type="image/icon type">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- header starts here -->
+    <section id="header">
+        <a href="#"><img src="images/logo.png" class="logo" alt=""></a>
+        <div>
+            <ul id="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a class="active" href="login.html">Sign In</a></li>
+                <li id="lg-bag"><a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></i></a></li>
+                <a href="#" id="close"><i class="fa-regular fa-circle-xmark"></i></a>
+            </ul>
+        </div>
+        <div id="mobile">
+            <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
+    </section>
+
+    <!-- login-page starts here -->
+    <div class="contain">
+        <div class="card">
+            <div class="inner" id="card">
+                <div class="card-front">
+                    <h2>SIGN IN</h2>
+                    <form>
+                        <input type="email" class="in" placeholder="Enter Your E-mail Id" required>
+                        <input type="password" class="in" placeholder="Enter Your Password" required>
+                        <button type="submit" class="submit-btn">Submit</button>
+                        <input type="checkbox"><span>Remember Me</span>
+                    </form>
+                    <button type="button" class="btn" onclick="openRegister()">I'm New Here</button>
+                    <a href="#">Forgot Password</a>
+                </div>
+                <div class="card-back">
+                    <h2>CREATE ACCOUNT</h2>
+                    <form>
+                        <input type="text" class="in" placeholder="Enter Your Name" required>
+                        <input type="email" class="in" placeholder="Enter Your E-mail Id" required>
+                        <input type="password" class="in" placeholder="Enter Your Password" required>
+                        <input type="password" class="in" placeholder="Confirm Your Password" required>
+                        <button type="submit" class="submit-btn">Submit</button>
+                        <input type="checkbox"><span>Remember Me</span>
+                    </form>
+                    <button type="button" class="btn" onclick="openLogin()">I've An Account</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="java script/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,228 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "brand": "H&M",
+        "name": "Checks Red Shirt",
+        "price": "100.00",
+        "source": "images/products/1.jpg",
+        "imagename": "product1"
+      },
+      {
+        "id": 2,
+        "brand": "Zara",
+        "name": "Casual striped Shirt",
+        "price": "107.00",
+        "source": "images/products/3.jpg",
+        "imagename": "product2"
+      },
+      {
+        "id": 3,
+        "brand": "Louis Vuitton",
+        "name": "Vintage Printed Shirt",
+        "price": "150.00",
+        "source": "images/products/5.jpg",
+        "imagename": "product3"
+      },
+      {
+        "id": 4,
+        "brand": "Moncler",
+        "name": "Casual T-Shirt",
+        "price": "139.00",
+        "source": "images/products/7.jpg",
+        "imagename": "product4"
+      },
+      {
+        "id": 5,
+        "brand": "Adidas",
+        "name": "Cartoon Astronaut Shirt",
+        "price": "78.00",
+        "source": "images/products/f1.jpg",
+        "imagename": "product5"
+      },
+      {
+        "id": 6,
+        "brand": "Max",
+        "name": "Hawaiian Casual Shirt",
+        "price": "50.00",
+        "source": "images/products/f2.jpg",
+        "imagename": "product6"
+      },
+      {
+        "id": 7,
+        "brand": "Indian Terrain",
+        "name": "Minimalist Vintage Shirt",
+        "price": "89.00",
+        "source": "images/products/f3.jpg",
+        "imagename": "product7"
+      },
+      {
+        "id": 8,
+        "brand": "Colors",
+        "name": "Highlander Leaf Casual Shirt",
+        "price": "61.00",
+        "source": "images/products/f4.jpg",
+        "imagename": "product8"
+      },
+      {
+        "id": 9,
+        "brand": "Armani",
+        "name": "Black Denim Shirt",
+        "price": "123.00",
+        "source": "images/products/9.jpg",
+        "imagename": "product9"
+      },
+      {
+        "id": 10,
+        "brand": "Old Navy",
+        "name": "Black Hoodie",
+        "price": "130.00",
+        "source": "images/products/11.jpg",
+        "imagename": "product10"
+      },
+      {
+        "id": 11,
+        "brand": "Calvin Klein",
+        "name": "Casual Wear Hoodie",
+        "price": "125.00",
+        "source": "images/products/13.jpg",
+        "imagename": "product11"
+      },
+      {
+        "id": 12,
+        "brand": "GUCCI",
+        "name": "Vintage Black Denim Hoodie",
+        "price": "120.00",
+        "source": "images/products/15.jpg",
+        "imagename": "product12"
+      },
+      {
+        "id": 13,
+        "brand": "Peter-England",
+        "name": "Spring Blossom Blue Shirt",
+        "price": "70.00",
+        "source": "images/products/f5.jpg",
+        "imagename": "product13"
+      },
+      {
+        "id": 14,
+        "brand": "Louis Philippe",
+        "name": "Double-Coloured Casual Shirt",
+        "price": "92.00",
+        "source": "images/products/f6.jpg",
+        "imagename": "product14"
+      },
+      {
+        "id": 15,
+        "brand": "Arrow",
+        "name": "Flower Printed Pant",
+        "price": "60.00",
+        "source": "images/products/f7.jpg",
+        "imagename": "product15"
+      },
+      {
+        "id": 16,
+        "brand": "Blackberrys",
+        "name": "Mega Printed Short Kurtha",
+        "price": "49.00",
+        "source": "images/products/f8.jpg",
+        "imagename": "product16"
+      },
+      {
+        "id": 17,
+        "brand": "Biba",
+        "name": "Printed Casual Shirt",
+        "price": "110.00",
+        "source": "images/products/2.jpg",
+        "imagename": "product17"
+      },
+      {
+        "id": 18,
+        "brand": "Fabindia",
+        "name": "Men's-wear Casual T-Shirt",
+        "price": "115.00",
+        "source": "images/products/4.jpg",
+        "imagename": "product18"
+      },
+      {
+        "id": 19,
+        "brand": "Flying Machine",
+        "name": "Colared Casual T-Shirt",
+        "price": "119.00",
+        "source": "images/products/6.jpg",
+        "imagename": "product19"
+      },
+      {
+        "id": 20,
+        "brand": "John Players",
+        "name": "Party Wear T-Shirt",
+        "price": "146.00",
+        "source": "images/products/8.jpg",
+        "imagename": "product20"
+      },
+      {
+        "id": 21,
+        "brand": "Tommy Hilfiger",
+        "name": "Chineese Collar Casual Shirt",
+        "price": "80.00",
+        "source": "images/products/n1.jpg",
+        "imagename": "product21"
+      },
+      {
+        "id": 22,
+        "brand": "StyleMinistry",
+        "name": "Office-wear Casual Shirt",
+        "price": "55.00",
+        "source": "images/products/n2.jpg",
+        "imagename": "product22"
+      },
+      {
+        "id": 23,
+        "brand": "Diverse Men",
+        "name": "Plain Vintage Shirt",
+        "price": "83.00",
+        "source": "images/products/n3.jpg",
+        "imagename": "product23"
+      },
+      {
+        "id": 24,
+        "brand": "Levi's",
+        "name": "Designed Casual Shirt",
+        "price": "60.00",
+        "source": "images/products/n4.jpg",
+        "imagename": "product24"
+      },
+      {
+        "id": 25,
+        "brand": "Mufti",
+        "name": "Striped Casual Shirt",
+        "price": "160.00",
+        "source": "images/products/10.jpg",
+        "imagename": "product25"
+      },
+      {
+        "id": 26,
+        "brand": "Nike",
+        "name": "Printed Fit Shirt",
+        "price": "155.00",
+        "source": "images/products/12.jpg",
+        "imagename": "product26"
+      },
+      {
+        "id": 27,
+        "brand": "Pepe Jeans",
+        "name": "Lined Casual T-Shirt",
+        "price": "152.00",
+        "source": "images/products/14.jpg",
+        "imagename": "product27"
+      },
+      {
+        "id": 28,
+        "brand": "Park Avenue",
+        "name": "Plain Casual T-Shirtt",
+        "price": "140.00",
+        "source": "images/products/16.jpg",
+        "imagename": "product28"
+      }
+    ]
+  }
